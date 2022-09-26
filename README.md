@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me Shubham.raddy20@outlook.com
+
 
 <!---
 Its-Holmes/Its-Holmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
